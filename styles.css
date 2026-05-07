@@ -1,0 +1,90 @@
+body {
+ 
+  background-color: #f3f6f9;
+  margin: 0;
+}
+section {
+  max-width: 2000px;
+  margin: 20px auto;
+  background: white;
+  padding: 24px;
+  border-radius: 6px;
+}
+h1 {
+
+  color: #FF00FF;
+  font-family: courier, monospace;
+  font-size: 70px;
+  text-align:center;
+}
+
+  .tododo{
+
+  text-align:left;
+    font-family: courier, monospace;
+    border-top: 3px ;
+
+
+
+}
+
+.container {
+  display:flex;
+  flex-direction: column;
+  width:300px;
+     border: 2px solid black;
+  border-radius: 05 px;
+ border-style:dotted;
+
+}
+
+.pomo{
+
+}
+img {
+float: left;
+
+
+
+
+}
+button1 {
+  background:#FF00FF;
+  color:white;
+  border:grey;
+  padding:10px 18px;
+  border-radius:100px;
+  font-family: courier, monospace;
+  font-size:20px;
+  margin:10px;
+  position: absolute;
+  top: 80%;
+  left: 9%;
+
+}
+button2 {
+  background:#FF00FF;
+  color:white;
+  border:grey;
+  padding:10px 18px;
+  border-radius:100px;
+  font-family: courier, monospace;
+  font-size:20px;
+  margin:10px;
+  position: absolute;
+  top: 80%;
+  left: 40%;
+}
+button3 {
+  background:#FF00FF;
+  color:white;
+  border:grey;
+  padding:10px 18px;
+  border-radius:100px;
+  font-family: courier, monospace;
+  font-size:20px;
+  margin:10px;
+  position: absolute;
+  top: 80%;
+  left: 70%;
+}
